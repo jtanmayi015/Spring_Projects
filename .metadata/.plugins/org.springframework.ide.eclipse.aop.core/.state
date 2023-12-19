@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="server"/>
+<aop-project name="spring_boot_admission"/>
+<aop-project name="Patholab"/>
+<aop-project name="day17_boot"/>
+<aop-project name="Patholab-Backend"/>
+<aop-project name="spring_boot_admission2"/>
+<aop-project name="OnlineJobPortal(backend)"/>
+<aop-project name="OnlineBookStore"/>
+</aop-reference-model>

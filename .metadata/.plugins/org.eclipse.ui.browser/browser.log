@@ -1,0 +1,152 @@
+
+Jun 01, 2023 15:44:54.479 NEW SESSION
+Jun 01, 2023 15:44:54.479 [16960:7856:0601/154454.479:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 01, 2023 15:44:54.479 [16960:7856:0601/154454.479:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 15:44:54.479 [16960:7856:0601/154454.479:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 15:44:54.479 [16960:7856:0601/154454.479:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 15:44:54.479 [16960:7856:0601/154454.479:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 15:44:54.479 [16960:7856:0601/154454.479:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 15:45:15.126 [16960:7856:0601/154515.126:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 01, 2023 15:45:16.878 [16960:7856:0601/154516.878:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 15:45:17.909 [16960:7856:0601/154517.909:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 15:45:18.143 [16960:7856:0601/154518.143:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 15:45:19.737 [16960:7856:0601/154519.737:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 15:45:21.677 [16960:7856:0601/154521.677:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 15:45:58.687 [16960:7856:0601/154558.687:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 01, 2023 15:46:01.421 [16960:7856:0601/154601.421:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 15:46:11.815 [16960:7856:0601/154611.815:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 15:46:13.471 [16960:7856:0601/154613.471:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 15:46:14.02 [16960:7856:0601/154614.002:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 15:46:14.611 [16960:7856:0601/154614.611:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 15:47:24.132 [16960:7856:0601/154724.132:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 15:47:34.482 [16960:7856:0601/154734.482:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 15:47:40.310 [16960:7856:0601/154740.310:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 15:47:47.813 [16960:7856:0601/154747.813:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 01, 2023 15:47:51.969 [16960:7856:0601/154751.969:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 15:48:01.129 [16960:7856:0601/154801.129:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 15:50:40.197 [16960:7856:0601/155040.197:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 15:50:42.40 [16960:7856:0601/155042.040:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 01, 2023 15:51:06.02 [16960:7856:0601/155106.002:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 15:51:07.720 [16960:7856:0601/155107.720:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 15:51:36.985 [16960:7856:0601/155136.985:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 15:51:50.459 [16960:7856:0601/155150.459:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 15:56:42.411 [16960:7856:0601/155642.411:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 15:57:08.91 [16960:7856:0601/155708.091:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 15:57:51.43 [16960:7856:0601/155751.043:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 15:58:22.221 [16960:7856:0601/155822.221:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 15:58:31.110 [16960:7856:0601/155831.110:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 15:58:31.110 [16960:12112:0601/155831.110:ERROR:sharing_service.cc(210)] Device registration failed with transient error
+Jun 01, 2023 15:58:34.48 [16960:7856:0601/155834.048:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 01, 2023 16:03:16.768 [16960:7856:0601/160316.768:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:03:40.652 [16960:7856:0601/160340.652:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:04:26.550 [16960:7856:0601/160426.550:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:05:59.20 [16960:7856:0601/160559.020:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:08:34.55 [16960:7856:0601/160834.055:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 01, 2023 16:09:11.196 [16960:7856:0601/160911.196:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:15:45.881 [16960:7856:0601/161545.881:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:15:45.881 [16960:12112:0601/161545.881:ERROR:sharing_service.cc(210)] Device registration failed with transient error
+Jun 01, 2023 16:18:34.64 [16960:7856:0601/161834.064:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 01, 2023 16:22:47.413 [4424:13552:0601/162247.413:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 01, 2023 16:22:47.413 [4424:13552:0601/162247.413:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:22:47.413 [4424:13552:0601/162247.413:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:22:47.413 [4424:13552:0601/162247.413:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:22:47.413 [4424:13552:0601/162247.413:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:22:47.413 [4424:13552:0601/162247.413:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:23:07.572 [4424:13552:0601/162307.572:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:23:07.853 [4424:13552:0601/162307.853:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:23:12.09 [4424:13552:0601/162312.009:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:23:12.602 [4424:13552:0601/162312.602:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:23:15.86 [4424:13552:0601/162315.086:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:23:15.946 [4424:13552:0601/162315.946:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 01, 2023 16:23:54.638 [4424:13552:0601/162354.638:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:23:57.91 [4424:13552:0601/162357.091:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:23:58.560 [4424:13552:0601/162358.560:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:24:04.779 [4424:13552:0601/162404.779:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 01, 2023 16:24:05.670 [4424:13552:0601/162405.670:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:24:05.842 [4424:13552:0601/162405.842:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:25:16.873 [4424:13552:0601/162516.873:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:25:29.249 [4424:13552:0601/162529.249:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:25:30.264 [4424:13552:0601/162530.264:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:25:46.832 [4424:13552:0601/162546.832:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:26:02.668 [4424:13552:0601/162602.668:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:26:04.715 [4424:13552:0601/162604.715:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 01, 2023 16:28:47.101 [4424:13552:0601/162847.101:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:28:52.304 [4424:13552:0601/162852.304:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:28:58.147 [4424:13552:0601/162858.147:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:29:15.801 [4424:13552:0601/162915.801:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:29:23.207 [4424:13552:0601/162923.207:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:30:03.640 [4424:13552:0601/163003.640:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 01, 2023 16:34:50.639 [4424:13552:0601/163450.639:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:35:08.878 [4424:13552:0601/163508.878:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:35:46.279 [4424:13552:0601/163546.279:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 01, 2023 16:36:00.397 [4424:13552:0601/163600.397:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:36:29.923 [4424:13552:0601/163629.923:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:36:29.923 [4424:16408:0601/163629.923:ERROR:sharing_service.cc(210)] Device registration failed with transient error
+Jun 01, 2023 16:36:32.549 [4424:13552:0601/163632.549:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:41:08.355 [4424:13552:0601/164108.355:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:41:36.306 [4424:13552:0601/164136.306:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:42:22.212 [4424:13552:0601/164222.212:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:44:00.49 [4424:13552:0601/164400.049:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:45:46.289 [4424:13552:0601/164546.289:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 01, 2023 16:46:42.164 [4424:13552:0601/164642.164:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:52:39.861 [4424:13552:0601/165239.861:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 16:52:39.861 [4424:16408:0601/165239.861:ERROR:sharing_service.cc(210)] Device registration failed with transient error
+Jun 01, 2023 16:55:46.293 [4424:13552:0601/165546.293:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 01, 2023 17:02:13.938 [4424:13552:0601/170213.938:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:02:36.423 [4424:13552:0601/170236.423:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:03:30.797 [4424:13552:0601/170330.797:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:23:52.822 [4424:13552:0601/172352.817:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 01, 2023 17:23:52.822 [4424:13552:0601/172352.822:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:26:40.437 [4424:13552:0601/172640.437:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:29:34.694 [16260:14164:0601/172934.694:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 01, 2023 17:29:34.694 [16260:14164:0601/172934.694:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:29:34.694 [16260:14164:0601/172934.694:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:29:34.694 [16260:14164:0601/172934.694:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:29:34.694 [16260:14164:0601/172934.694:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:29:34.694 [16260:14164:0601/172934.694:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:30:17.977 [3960:21768:0601/173017.977:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 01, 2023 17:30:17.977 [3960:21768:0601/173017.977:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:30:17.977 [3960:21768:0601/173017.977:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:30:17.977 [3960:21768:0601/173017.977:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:30:17.977 [3960:21768:0601/173017.977:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:30:17.977 [3960:21768:0601/173017.977:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:30:41.689 [3960:21768:0601/173041.689:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:30:41.940 [3960:21768:0601/173041.940:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:30:44.301 [3960:21768:0601/173044.301:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:30:45.396 [3960:21768:0601/173045.396:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:30:46.724 [3960:21768:0601/173046.724:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 01, 2023 17:30:47.177 [3960:21768:0601/173047.177:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:31:27.463 [3960:21768:0601/173127.463:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:31:28.761 [3960:21768:0601/173128.761:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 01, 2023 17:31:31.811 [3960:21768:0601/173131.811:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:31:36.563 [3960:21768:0601/173136.563:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:31:39.143 [3960:21768:0601/173139.143:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:31:40.04 [3960:21768:0601/173140.004:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:32:50.99 [3960:21768:0601/173250.099:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 01, 2023 17:32:52.960 [3960:21768:0601/173252.960:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:33:15.260 [3960:21768:0601/173315.260:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:33:17.854 [3960:21768:0601/173317.854:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:33:28.262 [3960:21768:0601/173328.262:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:33:32.480 [3960:21768:0601/173332.480:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:36:17.247 [3960:21768:0601/173617.247:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 01, 2023 17:36:47.703 [3960:21768:0601/173647.703:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:36:49.284 [3960:21768:0601/173649.284:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:37:17.563 [3960:21768:0601/173717.563:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:37:18.993 [3960:21768:0601/173718.993:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:37:26.517 [3960:21768:0601/173726.517:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:42:41.720 [3960:21768:0601/174241.720:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:43:39.106 [3960:21768:0601/174339.106:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 01, 2023 17:43:40.420 [3960:21768:0601/174340.420:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:44:13.322 [3960:21768:0601/174413.322:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:44:19.755 [3960:21768:0601/174419.755:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:44:19.755 [3960:21712:0601/174419.755:ERROR:sharing_service.cc(210)] Device registration failed with transient error
+Jun 01, 2023 17:45:12.614 [3960:21768:0601/174512.614:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:49:18.136 [3960:21768:0601/174918.136:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:49:43.296 [3960:21768:0601/174943.296:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:50:40.417 [3960:21768:0601/175040.417:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:52:12.242 [3960:21768:0601/175212.242:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 17:53:39.121 [3960:21768:0601/175339.121:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 01, 2023 17:55:24.116 [3960:21768:0601/175524.116:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 18:02:39.835 [3960:21768:0601/180239.835:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 01, 2023 18:02:39.835 [3960:21712:0601/180239.835:ERROR:sharing_service.cc(210)] Device registration failed with transient error
+Jun 01, 2023 18:03:39.123 [3960:21768:0601/180339.123:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106

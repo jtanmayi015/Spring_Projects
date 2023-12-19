@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<!-- configure depency beans -->
+	<!-- test transport : prototype -->
+	<bean id="test" class="dependency.TestTransport" scope="prototype" />
+	<!-- http transport : singleton n lazy -->
+	<bean id="http" class="dependency.HttpTransport" lazy-init="true" />
+	<!-- soap transport : singleton n eager -->
+	<bean id="soap" class="dependency.SoapTransport" />
+	<!-- notification service dependencies -->
+	<bean id="email" class="dependency.EmailNotification" />
+	<bean id="sms" class="dependency.SMSNotification"
+		scope="prototype" />
+
+	<!-- atm impl bean : prototype , using setter based dependency technique 
+		, to inject "http" transport layer. init n destroy -->
+	<bean id="atm" class="dependent.ATMImpl" scope="prototype"
+		init-method="init1234" destroy-method="destroy1234">
+		<!-- constructor based D.I -->
+		<constructor-arg name="cash123" value="500000" />
+		<!-- setter based D.I -->
+		<property name="myTransport" ref="http" />
+		<property name="service" ref="email" />
+	</bean>
+</beans>
